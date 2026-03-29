@@ -1,4 +1,5 @@
 // Add the required props
+import { TodoInfo } from "../TodoInfo/TodoInfo";
 
 export const TodoList = ({ todos }) => (
   <section className="TodoList">
